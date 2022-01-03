@@ -7,7 +7,7 @@ module.exports = async(client) => {
       new MessageEmbed()
       .setColor("ORANGE")
       .setTitle(`${client.emoji.radio} - Now Playing`)
-      .setDescription(`${client.emoji.music} - [**${song.name}**](${song.url})`)
+      .setDescription(`${client.emoji.music} - **[${song.name}](${song.url})**`)
       .addField("Requested By", `${song.user}`, true)
       .addField("Song Duration", `${song.formattedDuration}`, true)
     ]}) )
