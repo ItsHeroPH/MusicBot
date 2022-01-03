@@ -64,7 +64,7 @@ module.exports = client => {
             req.session.backURL = "/"
         }
         next();
-        }, passport.authenticate("discord", { prompt: "none"})
+        }, passport.authenticate("discord")
     );
     app.get("/callback", passport.authenticate("discord", { failureRedirect: "/" }), async (req, res) => {
         res.redirect("/dashboard")
