@@ -4,7 +4,7 @@
   <a href="https://discord.gg/S6d777Ph8t">
     <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png"  alt="Discord" width="80px"/>
     <h1>HeroCraftBot</h1<br><p>Join To Our Discord Server!</p>
-  </a><a href="https://discord.com/oauth2/authorize?client_id=882546376699949057&permissions=3147776&scope=bot">
+  </a><a href="herocraftmusic.tk">
     <img src="https://media.discordapp.net/attachments/899498088660627476/913708707555188766/HMusic.png?width=484&height=484" width="80px"/>
     <h1>Invite Me<br>HeroCraftMusic</h1>
   </a>
