@@ -14,7 +14,7 @@
 Go to `config.json` file and fill up the token and change the prefix. (important)  
 You can change the bot emoji. (optional)
 
-To find the token of the bot go to [Developer Portal](https://discord.com/developers/applications)
+To find the token, clientId, and Client Secret of the bot go to [Developer Portal](https://discord.com/developers/applications)
 
 ```json
 {
@@ -49,6 +49,7 @@ To find the token of the bot go to [Developer Portal](https://discord.com/develo
 - Fork this Project.
 - Go to `config.json` file and fill up the needed informations.
 - Go to Terminal or Console and type `npm install` or `npm i`.
+- Add redirect URL to [Developer Portal](https://discord.com/developers/applications) in auth section of your bot, url should look like this `https://<domain>/login` and `https://<domain>/callback`
 - You can now run this project, Enjoy!
 
 ## How to Make Commands
